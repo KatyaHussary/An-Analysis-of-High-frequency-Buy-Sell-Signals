@@ -28,4 +28,4 @@ The pursuit of accurate financial prediction tools has long been at the forefron
 In this code, we present the Python codes used for the analysis and modelling of both illiquid and liquid stocks, namely China Tianrui Group Cement Co. Ltd. and Alibaba Health Information Technology. Although the codes are largely similar, they were studied separately for each stock to account for their unique characteristics.
 
 </p>
-
+ <b>Please open the notebook provided above with the name FinalCode.ipynb to view the code. </b>
